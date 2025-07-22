@@ -9,7 +9,6 @@ const withBundleAnalyzer = bundleAnalyzer({
 })
 
 export default withBundleAnalyzer({
-  basePath: '/notnotion',
   staticPageGenerationTimeout: 300,
   images: {
     remotePatterns: [
