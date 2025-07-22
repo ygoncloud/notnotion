@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'YGoncloud/notnotion OS',
-  domain: 'notnotion-six.vercel.app',
+  name: 'YG/kakikomu app',
+  domain: 'kakikomu.vercel.app',
   author: 'YGoncloud',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Kakikomu (書き込む)	“To write in” — like journaling',
 
   // social usernames (optional)
   twitter: 'ygoncloud',
